@@ -1,0 +1,5 @@
+source "C:/Users/admin/Desktop/esp/esp-idf/components/app_update/Kconfig.projbuild"
+source "C:/Users/admin/Desktop/esp/esp-idf/components/bootloader/Kconfig.projbuild"
+source "C:/Users/admin/Desktop/esp/esp-idf/components/esptool_py/Kconfig.projbuild"
+source "C:/Users/admin/Desktop/esp/esp-idf/components/partition_table/Kconfig.projbuild"
+source "C:/Users/admin/Desktop/esp/Bluetooth_Speaker/a2dp_sink/main/Kconfig.projbuild"

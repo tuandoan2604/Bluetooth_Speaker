@@ -1,0 +1,27 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "D:\\Documents\\ArduinoData\\packages\\esp32\\tools\\**",
+                "D:\\Documents\\ArduinoData\\packages\\esp32\\hardware\\esp32\\1.0.4\\**",
+                "${workspaceFolder}/**",
+                "C:\\Users\\admin\\AppData\\Local\\Arduino15\\packages\\esp32\\hardware\\esp32\\1.0.4\\**",
+                "C:\\Users\\admin\\AppData\\Local\\Arduino15\\packages\\esp32\\tools\\**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.18362.0",
+            "compilerPath": "C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/VC/Tools/MSVC/14.27.29110/bin/Hostx64/x64/cl.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "${workspaceFolder}/build/compile_commands.json",
+            "forcedInclude": []
+        }
+    ],
+    "version": 4
+}
